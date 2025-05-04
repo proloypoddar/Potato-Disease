@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+numpy
+pillow
+python-multipart
+gtts
+playsound
+torch
+torchvision
+matplotlib
